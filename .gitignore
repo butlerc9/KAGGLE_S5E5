@@ -7,3 +7,6 @@ reports/
 # MLFlow
 mlflow.db
 mlruns
+
+*_cache
+*.pyc

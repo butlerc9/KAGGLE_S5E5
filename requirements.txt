@@ -1,3 +1,6 @@
+# Install editable scripts for utils
+-e .
+
 # notebooks
 ipykernel
 jupyter
@@ -13,6 +16,7 @@ ydata_profiling
 scikit-learn
 lightgbm
 mlflow # experiment tracking
+optuna
 
 # kaggle
 kaggle
