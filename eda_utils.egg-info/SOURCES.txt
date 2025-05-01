@@ -7,5 +7,4 @@ eda_utils.egg-info/top_level.txt
 scripts/__init__.py
 scripts/cross_validation.py
 scripts/data_processing.py
-scripts/optuna.py
 scripts/target_encoding.py

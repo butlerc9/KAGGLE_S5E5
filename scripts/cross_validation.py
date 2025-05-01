@@ -3,9 +3,6 @@ import pandas as pd
 
 # machine learning libraries
 from sklearn.model_selection import KFold
-from sklearn.metrics import root_mean_squared_log_error
-import lightgbm as lgb
-import optuna
 
 
 def run_cross_validation(df_train: pd.DataFrame, hyperparameters:dict, TARGET_COLUMN: str) -> float:

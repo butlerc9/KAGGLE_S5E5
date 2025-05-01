@@ -11,12 +11,14 @@ pandas
 
 # Visualisation
 ydata_profiling
+plotly
 
 # Data Science
 scikit-learn
 lightgbm
 mlflow # experiment tracking
 optuna
+xgboost
 
 # kaggle
 kaggle
