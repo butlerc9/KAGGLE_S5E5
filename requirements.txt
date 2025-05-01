@@ -16,3 +16,8 @@ mlflow # experiment tracking
 
 # kaggle
 kaggle
+
+# quality
+pytest
+mypy
+pytest-mypy
