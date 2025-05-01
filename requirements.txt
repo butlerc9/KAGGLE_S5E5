@@ -1,0 +1,18 @@
+# notebooks
+ipykernel
+jupyter
+ipywidgets
+
+# Data manipulation
+pandas
+
+# Visualisation
+ydata_profiling
+
+# Data Science
+scikit-learn
+lightgbm
+mlflow # experiment tracking
+
+# kaggle
+kaggle

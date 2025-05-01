@@ -1,0 +1,9 @@
+.venv/
+data/
+.DS_Storeæ
+submissions/
+reports/
+
+# MLFlow
+mlflow.db
+mlruns
