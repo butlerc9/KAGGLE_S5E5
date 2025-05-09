@@ -15,10 +15,17 @@ plotly
 
 # Data Science
 scikit-learn
-lightgbm
-mlflow # experiment tracking
+
 optuna
+
+lightgbm
+optuna-integration[lightgbm]
+
 xgboost
+optuna-integration[xgboost]
+
+mlflow # experiment tracking
+
 
 # kaggle
 kaggle
